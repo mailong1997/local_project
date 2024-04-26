@@ -1,1 +1,3 @@
-hello
+# git branch : được sử dụng để kiểm tra tất cả các branch
+# git checkout <branch_name> : để chuyển sang nhánh mới
+# git checkout -b <branch_name> : tạo một branch mới
